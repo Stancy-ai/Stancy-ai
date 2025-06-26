@@ -62,9 +62,3 @@ My vision is to become a world-class **Backend Engineer** and **Tech Public Spea
 ---
 
 _“Tech is a tool — let’s use it to empower, educate, and inspire.”_
-
-```
-
-
-
-

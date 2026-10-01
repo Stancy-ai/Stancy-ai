@@ -1,4 +1,4 @@
-## Hi, I'm Theresa Seyram Agbenyegah (mostly referred to as Stancy-ai) 👋
+## Hi, I'm Theresa Seyram Agbenyegah (mostly referred to as Stancy-ai) 
 
 
 
@@ -17,32 +17,32 @@ Beyond coding, I'm deeply committed to **tech for social impact** — using tech
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
-- 🧱 Building APIs and backend services with **Django**
-- 🌩️ Exploring **Cloud Technologies** and DevOps practices
-- 🧪 Contributing to open source projects and mentoring newcomers
-- 📣 Speaking about **Clean Code**, **Software Design**, and **Women in Tech**
+- Building APIs and backend services with **Django**
+- Exploring **Cloud Technologies** and DevOps practices
+- Contributing to open source projects and mentoring newcomers
+- Speaking about **Clean Code**, **Software Design**, and **Women in Tech**
 
 ---
 
 ## 🌍 Community Involvement
 
-- 🇬🇭 **PyLadies Ghana** – Programmes & Event Lead  
-- 🐍 **Python Ghana** – Active Contributor  
-- ✊🏾 **Black Python Devs Ghana** – Organizer  
-- 🎤 Speaker at PyCon Africa, Women in WACREN, and other regional tech conferences  
-- 🛠️ Organizer of DjangoGirls Ghana and cybersecurity workshops for underrepresented groups
+- **PyLadies Ghana** – Programmes & Event Lead  
+- **Python Ghana** – Active Contributor  
+- **Black Python Devs Ghana** – Organizer  
+- Speaker at PyCon Africa, Women in WACREN, and other regional tech conferences  
+- Organizer of DjangoGirls Ghana and cybersecurity workshops for underrepresented groups
 
 ---
 
-## 💡 Vision
+## Vision
 
 My vision is to become a world-class **Backend Engineer** and **Tech Public Speaker** while continuing to build inclusive tech ecosystems in Ghana and across Africa. I believe in technology as a tool for **equity, education**, and **empowerment**.
 
 ---
 
-## 🧠 Skills
+## Skills
 
 - **Languages**: Python, HTML, CSS, JavaScript (basics)
 - **Frameworks**: Django, FastAPI (learning)
@@ -52,12 +52,12 @@ My vision is to become a world-class **Backend Engineer** and **Tech Public Spea
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/theresa-seyram-agbenyegah/)
-- 🐙 [GitHub](https://github.com/yourusername)
-- 🌐 [Personal Website](https://yourdomain.com) *(coming soon)*  
-- ✉️ DM me to collaborate on open source, events, or backend projects!
+-  [LinkedIn](https://www.linkedin.com/in/theresa-seyram-agbenyegah/)
+-  [GitHub](https://github.com/yourusername)
+-  [Personal Website](https://yourdomain.com) *(coming soon)*  
+-  DM me to collaborate on open source, events, or backend projects!
 
 ---
 

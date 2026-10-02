@@ -26,7 +26,7 @@ Beyond coding, I'm deeply committed to **tech for social impact** — using tech
 
 ---
 
-## 🌍 Community Involvement
+##  Community Involvement
 
 - **PyLadies Ghana** – Programmes & Event Lead  
 - **Python Ghana** – Active Contributor  

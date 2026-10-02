@@ -1,8 +1,4 @@
-## Hi, I'm Theresa Seyram Agbenyegah (mostly referred to as Stancy-ai) 
-
-
-
----
+## Hi, I'm Theresa Seyram Agbenyegah (mostly referred to as Stancy) 
 
 
 ### Backend Developer | Tech Community Leader | Open Source Advocate
